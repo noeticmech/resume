@@ -1,0 +1,101 @@
+contact:
+  email: matthew-butler@utulsa.edu
+  website: noeticmech.github.io
+  phone: 918.512.1313
+education:
+  - institution: University of Tulsa
+    degrees:
+      - type: Ph.D. in Computer Science
+        date: May 2019
+        detail: An Intrusion Detection System for Heavy-Duty Vehicle Networks
+      - type: M.S. in Computer Science
+        date: May 2011
+        detail: Dynamic Risk Assessment Access Control
+      - type: B.S. in Computer Science
+        date: May 2008
+        detail: Mathematics, German
+classwork:
+  - "CNSS 4011: Information Security Personnel"
+  - "CNSS 4012: Senior System Manager"
+  - "CNSS 4013A: System Administrator"
+  - "CNSS 4014A: Information System Security Officer"
+  - "CNSS 4015: System Certifier"
+  - "CNSS 4016A: Risk Analyst"
+toolset:
+  - Python, including SciPy, Flask, Java, C/C++
+  - LaTeX, Markdown, reStructuredText, pandoc
+  - GNU/Linux
+  - VS Code
+consulting:
+  - client: Antonelli, Harrington & Thompson LLP
+    task: Source Code Review
+    date: November 2015 - December 2015
+    description: Verifying that source code contained specific functionality relevant to a patent case
+  - client: Oklahoma City-County Health Department
+    task: Risk Assessment
+    date: December 2014 - July 2015
+    description: Analyzing the information assurance stance of the OCCHD network and creating a prioritized list of recommendations for better security based on findings and organizational mission and priorities
+academic:
+  - title: Summer Camp Teacher
+    date: Summer 2016
+    description:
+      - Taught week-long, full-day summer camp sessions on cryptography, cryptanalysis and cybersecurity for middle school and high school students
+      - Reworked an existing curriculum for middle school students for high school students
+      - Integrated basic bash programming for hands-on exercises involving encryption, decryption, and cryptanalysis.
+  - title: Teaching Assistant
+    date: Spring 2017, 2014, 2013, 2012, 2011
+    description:
+      - "Taught course units on Defensive Programming for CS 7183: Information System Security Engineering"
+      - Developed a code review project focused on identifying the information flow between a system and external actors and finding potential vulnerabilities.
+      - Developed a scoring rubric and partially automated grading system for the code review project
+  - title: Research Assistant
+    date: August 2008 - August 2012
+    description: 
+      - Researched security engineering, trusted operating systems, and network security
+      - Developed security engineering curriculum and short courses for local businesses
+      - Maintaining TU's Security Engineering Lab
+      - Teaching Java and Python to summer research participants
+      - Managing undergraduate participants in TU's summer research program
+  - title: Teaching Assistant
+    date: August 2009 - May 2010
+    description:
+      - Taught lab sections for Application Programming and Algorithms (Fall 09) and Scientific Programming (Spring 10)
+      - Developed lab curriculum for Application Programming and Algorithms
+      - Graded homework and lab assignments
+publications:
+  - type: paper
+    authors: M. Butler
+    year: 2017
+    title: An Intrusion Detection System for Heavy-Duty Truck Networks
+    venue: 12th International Conference on Cyber Warfare and Security
+    detail: Dayton, Ohio, USA
+  - type: book chapter
+    authors: P. Hawrylak, S. Reed, M. Butler, J. Hale
+    year: 2014
+    title: "The Access of Things: Spatial Access Control for the Internet of Things"
+    venue: Handbook of Research on Progressive Trends in Wireless Communications and Networking
+    detail: IGI Global
+  - type: poster
+    authors: M. Butler, S. Reed, P. Hawrylak, J. Hale
+    year: 2013
+    title: Implementing Graceful RFID Privilege Reduction
+    venue: Eighth Annual Cyber Security and Information Intelligence Research Workshop
+    detail: Oak Ridge, Tennessee, USA
+  - type: extended abstract
+    authors: M. Butler, P. Hawrylak, J. Hale
+    year: 2011
+    title: Graceful Priviledge Reduction in RFID Security
+    venue: Seventh Annual Cyber Security and Information Intelligence Research Workshop
+    detail: Oak Ridge, Tennessee, USA
+  - type: paper
+    authors: G. Louthan, W. Roberts, M. Butler, J. Hale
+    year: 2010
+    title: "The Blunderdome: An Offensive Exercise for Building Network, Systems, and Web Security Awareness"
+    venue: Third Workshop on Cyber Security Experimentation and Test
+    detail: Washington, D.C., USA
+  - type: paper
+    authors: B. Pollet, M. Butler, J. Hale
+    year: 2006
+    title: Dynamic Policy Enforcement in a Network Environment
+    venue: Security Enhanced Linux Symposium
+    detail: Baltimore, Maryland, USA.
