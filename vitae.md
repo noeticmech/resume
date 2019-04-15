@@ -1,3 +1,5 @@
+---
+name: Matthew Butler
 contact:
   email: matthew-butler@utulsa.edu
   website: noeticmech.github.io
@@ -99,3 +101,4 @@ publications:
     title: Dynamic Policy Enforcement in a Network Environment
     venue: Security Enhanced Linux Symposium
     detail: Baltimore, Maryland, USA.
+---
