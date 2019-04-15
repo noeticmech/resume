@@ -9,13 +9,13 @@ education:
     degrees:
       - type: Ph.D. in Computer Science
         date: May 2019
-        detail: An Intrusion Detection System for Heavy-Duty Vehicle Networks
+        thesis: An Intrusion Detection System for Heavy-Duty Vehicle Networks
       - type: M.S. in Computer Science
         date: May 2011
-        detail: Dynamic Risk Assessment Access Control
+        thesis: Dynamic Risk Assessment Access Control
       - type: B.S. in Computer Science
         date: May 2008
-        detail: Mathematics, German
+        minor: Mathematics, German
 classwork:
   - "CNSS 4011: Information Security Personnel"
   - "CNSS 4012: Senior System Manager"
