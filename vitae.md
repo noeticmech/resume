@@ -1,5 +1,6 @@
 ---
-name: Matthew Butler
+firstname: Matthew
+familyname: Butler
 contact:
   email: matthew-butler@utulsa.edu
   website: noeticmech.github.io
@@ -9,12 +10,15 @@ education:
     degrees:
       - type: Ph.D. in Computer Science
         date: May 2019
+        gpa: 3.8
         thesis: An Intrusion Detection System for Heavy-Duty Vehicle Networks
       - type: M.S. in Computer Science
         date: May 2011
+        gpa: 3.7
         thesis: Dynamic Risk Assessment Access Control
       - type: B.S. in Computer Science
         date: May 2008
+        gpa: 3.5
         minor: Mathematics, German
 classwork:
   - "CNSS 4011: Information Security Personnel"
@@ -73,7 +77,7 @@ publications:
     detail: Dayton, Ohio, USA
   - type: book chapter
     authors: P. Hawrylak, S. Reed, M. Butler, J. Hale
-    year: 2014
+    year: 2017
     title: "The Access of Things: Spatial Access Control for the Internet of Things"
     venue: Handbook of Research on Progressive Trends in Wireless Communications and Networking
     detail: IGI Global
